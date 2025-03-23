@@ -1,34 +1,8 @@
 ## 
 <p align="center">
-  <span style="
-    display: inline-block;
-    font-size: 36px;
-    color: #0066FF;
-    font-family: 'Brush Script MT', cursive;
-    animation: slideIn 2s ease-in-out infinite alternate, blink 1s step-start infinite;
-  ">
-    Stav Aizik - Electrical Engineering 💎
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=2500&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=Stav+Aizik+-+Electrical+Engineering+💎" />
 </p>
 
-<style>
-@keyframes slideIn {
-  from {
-    transform: translateX(-50px);
-    opacity: 0.2;
-  }
-  to {
-    transform: translateX(0px);
-    opacity: 1;
-  }
-}
-
-@keyframes blink {
-  50% {
-    opacity: 0.7;
-  }
-}
-</style>
 
 
 <!--

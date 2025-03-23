@@ -1,6 +1,6 @@
 ## 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=2500&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=Stav+Aizik+-+Electrical+Engineering+💎" />
+<p align="center" style="margin-top:50px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=2500&pause=1000&color=0047AB&center=true&vCenter=true&width=800&height=100&lines=Stav+Aizik+-+Electrical+Engineering+💎" />
 </p>
 
 

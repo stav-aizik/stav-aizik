@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+<h1 align="center" style="color:#3F8EFc; font-family:Georgia, serif;">
+Stav Aizik - Electrical Engineer 
+</h1>
 
 <!--
 **stav-aizik/stav-aizik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

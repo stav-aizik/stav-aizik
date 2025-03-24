@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stav-aizik&label=Visitors&color=#0047AB" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=stav-aizik&label=Visitors&color=0047AB" alt="Profile views"/>
 </p>
 
 

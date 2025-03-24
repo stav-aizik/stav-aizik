@@ -3,7 +3,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=2500&pause=1000&color=0047AB&center=true&vCenter=true&width=800&height=100&lines=Stav+Aizik+-+Electrical+Engineering+💎" />
 </p>
 
-![Visitors](https://komarev.com/ghpvc/?username=stav-aizik&color=ff69b4&label=Visitors)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stav-aizik&label=Visitors&color=007BFF" alt="Profile views"/>
+</p>
+
 
 
 <!--
